@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 170" width="1280" height="170" role="img" aria-label="The Great Work: Alchemia, ATHANOR, AURORA and WORKBENCH">
+<title>The Great Work: Alchemia, ATHANOR, AURORA and WORKBENCH</title>
+<rect width="1280" height="170" fill="#000000"/>
+<rect x="24" y="30" width="292" height="110" rx="12" fill="#0A0A0A" stroke="#9D4EDD" stroke-opacity="0.6" stroke-width="1.2"/>
+<circle cx="50" cy="64" r="7" fill="#9D4EDD"/>
+<text x="68" y="70" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#9D4EDD">ALCHEMIA</text>
+<text x="44" y="100" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="2.5" fill="#808080">NIGREDO</text>
+<text x="44" y="124" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#FFFFFF">The company and its method</text>
+<path d="M316 85L340 85" stroke="#808080" stroke-width="1.5"/>
+<rect x="340" y="30" width="292" height="110" rx="12" fill="#0A0A0A" stroke="#D1CFD5" stroke-opacity="0.6" stroke-width="1.2"/>
+<circle cx="366" cy="64" r="7" fill="#D1CFD5"/>
+<text x="384" y="70" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#D1CFD5">ATHANOR</text>
+<text x="360" y="100" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="2.5" fill="#808080">ALBEDO</text>
+<text x="360" y="124" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#FFFFFF">Curates the molecules</text>
+<path d="M632 85L656 85" stroke="#808080" stroke-width="1.5"/>
+<rect x="656" y="30" width="292" height="110" rx="12" fill="#0A0A0A" stroke="#FF9E00" stroke-opacity="0.6" stroke-width="1.2"/>
+<circle cx="682" cy="64" r="7" fill="#FF9E00"/>
+<text x="700" y="70" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#FF9E00">AURORA</text>
+<text x="676" y="100" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="2.5" fill="#808080">CITRINITAS</text>
+<text x="676" y="124" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#FFFFFF">Holds the data</text>
+<path d="M948 85L972 85" stroke="#808080" stroke-width="1.5"/>
+<rect x="972" y="30" width="292" height="110" rx="12" fill="#0A0A0A" stroke="#FC48A1" stroke-opacity="0.6" stroke-width="1.2"/>
+<circle cx="998" cy="64" r="7" fill="#FC48A1"/>
+<text x="1016" y="70" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#FC48A1">WORKBENCH</text>
+<text x="992" y="100" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="2.5" fill="#808080">RUBEDO</text>
+<text x="992" y="124" font-family="'IBM Plex Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#FFFFFF">Where the work is done</text>
+</svg>
