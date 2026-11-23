@@ -39,12 +39,11 @@ transformation, from raw matter to a finished remedy.
 | **AURORA** | A molecular database for computer-aided drug design. Every compound has a curated structure, an approved 3D conformer, a docking file, computed features and its provenance. Two packages, each under its own licence: CC BY-SA 4.0 and CC BY-NC 4.0 | [Repository](https://github.com/alchemia-solutions/aurora) · [Platform](https://aurora.alchemia.solutions) |
 | **WORKBENCH** | A virtual laboratory for drug design, by subscription. It is in specification and has no code yet | Not available |
 
-## Featured repositories
+## Featured repository
 
 | Repository | What it holds |
 |---|---|
 | [**aurora**](https://github.com/alchemia-solutions/aurora) | The public description of AURORA: the data model, the sources and their terms, the seven ATHANOR gates, the API and examples that read it |
-| [**alchemia-radar**](https://github.com/alchemia-solutions/alchemia-radar) | A pipeline that collects news and literature from our field and feeds our internal radar |
 
 ## What guides our work
 
